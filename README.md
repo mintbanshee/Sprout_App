@@ -52,7 +52,7 @@ Optional: You can bundle the app into a JAR and alias it for easier use
 ![Sprout Help](assets/Sprout_Help.png)
 
 ### 🌱 Created Project with Template & Repo
-![Sprout Template and Repo](assets/Sprout_Template%26Repo.png)
+![Sprout Template and Repo](assets/Sprout_Template_and_Repo.png)
 
 ### 🌱 GitHub Repo View
 ![Sprout Repo](assets/Sprout_Repo.png)
