@@ -24,7 +24,7 @@ Created with 🌿 by Alexandria (MintBanshee) as part of a Java assignment at tr
 
 To compile and run SproutApp from the terminal:
 
-javac src/Main.java && java -cp src Main
+javac Sprout.java && java Sprout
 
 Once compiled, you can use it from the command line like this:
 
