@@ -22,14 +22,11 @@ Created with 🌿 by Alexandria (MintBanshee) as part of a Java assignment at tr
 
 To compile and run SproutApp from the terminal:
 
-```bash
 javac src/Main.java && java -cp src Main
 
 Once compiled, you can use it from the command line like this:
 
 sprout new MyProject --template java-assignment --git --github yourUsername --repo MyProject
-
-&nbsp;
 
 ---
 
@@ -56,6 +53,13 @@ Optional: You can bundle the app into a JAR and alias it for easier use
 
 ### 🌱 GitHub Repo View
 ![Sprout Repo](assets/Sprout_Repo.png)
+
+---
+
+### 🎥 Demo Video
+
+
+https://github.com/user-attachments/assets/e5adce8a-03ab-44b0-a872-6e7f8a7f911b
 
 ---
 
