@@ -29,6 +29,8 @@ Once compiled, you can use it from the command line like this:
 
 sprout new MyProject --template java-assignment --git --github yourUsername --repo MyProject
 
+&nbsp;
+
 ---
 
 💻 Installation
@@ -46,9 +48,15 @@ Optional: You can bundle the app into a JAR and alias it for easier use
 
 📷 Screenshots
 
+<img width="1335" height="887" alt="Sprout_Help" src="https://github.com/user-attachments/assets/6e88d1af-06ed-400d-b00b-434ca9dc9134" />
+<img width="2927" height="1775" alt="Sprout_Template Repo" src="https://github.com/user-attachments/assets/d045a42c-ed1f-4a83-8db4-5a6ccb54f961" />
+<img width="1477" height="1015" alt="Sprout_Repo" src="https://github.com/user-attachments/assets/8d8c746b-080d-4347-9db7-648f5f5a42d2" />
+
 ---
 
 🎥 Demo Video
+
+https://github.com/user-attachments/assets/7c627ef4-c745-4cb9-8712-2aba1f9c171d
 
 ---
 
