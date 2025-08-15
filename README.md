@@ -37,9 +37,9 @@ sprout new MyProject --template java-assignment --git --github yourUsername --re
 1. Clone or download this repository
 2. Open in VS Code or your terminal of choice
 3. Compile the app using:
-  javac src/Main.java
+  javac Sprout.java
 4. Run it
-  java -cp src Main
+  java Sprout
 
 Optional: You can bundle the app into a JAR and alias it for easier use
 
