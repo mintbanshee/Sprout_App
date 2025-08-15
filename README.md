@@ -2,7 +2,9 @@
 
 # 🌱 SproutApp
 
-SproutApp is a cozy Java-based CLI tool designed to quickly scaffold project templates for developers. With a few simple flags, you can generate structured folders, starter files, and even auto-initialize a Git repository with optional GitHub integration — perfect for students and devs who want to skip the setup and jump straight into coding.
+SproutApp is a cozy Java-based CLI tool that helps developers sprout new projects in seconds 🌱
+
+With a few simple flags, you can generate structured folders, starter files, and even auto-initialize a Git repository with optional GitHub integration — perfect for students and devs who want to skip the setup and jump straight into coding.
 
 Created with 🌿 by Alexandria (MintBanshee) as part of a Java assignment at triOS College.
 
@@ -58,7 +60,6 @@ Optional: You can bundle the app into a JAR and alias it for easier use
 
 ### 🎥 Demo Video
 
-
 https://github.com/user-attachments/assets/e5adce8a-03ab-44b0-a872-6e7f8a7f911b
 
 ---
@@ -67,18 +68,16 @@ https://github.com/user-attachments/assets/e5adce8a-03ab-44b0-a872-6e7f8a7f911b
 
 A full breakdown of how SproutApp works — including commands, flags, and templates — is available in the Wiki.
 
+---
+
 🧠 Assignment Details
 
 This project was created as part of Java Assignment 4, which asked students to:
 
 ✅ Create a useful Java application
-
 ✅ Run it from terminal or icon
-
 ✅ Set up GitHub repo named after the app
-
 ✅ Include a README and wiki
-
 ✅ Add screenshots (and optionally a video)
 
 ---
